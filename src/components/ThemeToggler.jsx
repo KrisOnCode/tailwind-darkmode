@@ -1,6 +1,3 @@
-import MoonIcon from '../assets/MoonIcon'
-import SunIcon from '../assets/SunIcon'
-
 export default function ThemeToggler({darkMode, setDarkMode}) {
     return (
         <div className="mb-3">
